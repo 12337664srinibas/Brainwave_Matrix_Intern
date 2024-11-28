@@ -26,7 +26,7 @@ As an SQL Intern, your primary focus is on:
   ### Tables:
 - **Books**: Stores details about each book.
 - **User** : Stores details about each users.
-- **Transaction** :
+- **Transactions** :
     - **Fields Explanation** :
          TransactionID: Unique identifier for each transaction.
          UserID: Foreign key linking to the Users table.
