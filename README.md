@@ -39,7 +39,7 @@ As an SQL Intern, your primary focus is on:
 
 - **Reservations** :
 
-  -**Fields Explanation** :
+  - **Fields Explanation** :
                    ReservationID: Unique identifier for each reservation.
                    UserID: Foreign key linking to the Users table, identifying who made the reservation.
                    BookID: Foreign key linking to the Books table, identifying the reserved book.
