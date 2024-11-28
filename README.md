@@ -37,7 +37,7 @@ As an SQL Intern, your primary focus is on:
        FineAmount: Any applicable fine for late return.
        TransactionType: Indicates whether the transaction is for issuing or returning a book.
 
-  -**Reservations** :
+- **Reservations** :
          **Fields Explanation** :
                    ReservationID: Unique identifier for each reservation.
                    UserID: Foreign key linking to the Users table, identifying who made the reservation.
