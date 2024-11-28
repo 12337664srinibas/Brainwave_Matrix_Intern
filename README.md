@@ -36,6 +36,7 @@ As an SQL Intern, your primary focus is on:
         ReturnDate: The actual date the book was returned.
        FineAmount: Any applicable fine for late return.
        TransactionType: Indicates whether the transaction is for issuing or returning a book.
+
 -**Reservations** :
          **Fields Explanation** :
                    ReservationID: Unique identifier for each reservation.
